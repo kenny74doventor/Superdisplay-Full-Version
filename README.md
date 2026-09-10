@@ -238,3 +238,6 @@ This repository serves as the official landing page for SuperDisplay. The softwa
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of SuperDisplay today!**
+
+---
+**Last updated:** 2026-09-10 12:06:22 UTC
